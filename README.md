@@ -1,4 +1,4 @@
-# HTML Email for Anvil A&S annoucing there store is online
+# HTML Email for Anvil A&S announcing there store is online
 
 ## Techs used:
 
