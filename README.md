@@ -1,4 +1,4 @@
-# HTML Email for Anvil A&S announcing there store is online
+# HTML Email: Anvil A&S announcing there store is online
 
 ## Techs used:
 
@@ -10,4 +10,4 @@ HTML, CSS
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-mendoza-web-developer/)
 [View Project](https://sergiomendozer.github.io/Anvil-email-store-launched-grand-opening/)
 
-## Image
+## Project Image
